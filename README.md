@@ -13,7 +13,10 @@ If you want to use the APP just download the app-release.apk in the release fold
 
 This project has the next libraryes:
 
-1. react-native-async-storage/async-storage
+1. react-native-picker/picker
 2. eklipse-react-native-circular-progress
+3. react-native-async-storage/async-storage
+
+
 
 ***Don't forget to install all the libraries to run the project***
